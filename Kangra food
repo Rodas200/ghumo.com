@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jaipurfood</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="navbar">
+       <a id="logo" href="Homepage.html">ghumo.in</a>
+        <a1>Review</a1>
+        <a>Help</a>
+        <a>About us</a>
+       <input placeholder="  Explore" class="search-input">
+       <div class="search-icon">
+          <i class="fa-solid fa-magnifying-glass"></i>
+       </div>
+    </div>
+    <hr>
+    <div>
+        <h2>FOOD</h2>
+    </div>
+    <div class="food">
+        <div class="food1">
+            <div class="chennaifood1img"></div>
+            <div class="food1txt"><h3>Dham</h3></div>
+            <div class="jaipurfooddescription">It is traditional Kangra feast that is usually prepared during festivals and special occasions. It typically consists of a variety of vegetarian dishes.</div>
+        </div>
+        <div class="food1">
+            <div class="chennaifood2img"></div>
+            <div class="food1txt">Chana Madra</div>
+            <div class="jaipurfooddescription"> This is a popular dish in Kangra and is made from chickpeas cooked in a yogurt-based gravy with spices.</div>
+
+        </div>
+        <div class="food1">
+            <div class="chennaifood3img"></div>
+            <div class="food1txt">Rajma Chawa</div>
+            <div class="jaipurfooddescription">Rajma (red kidney beans) cooked in a thick tomato-based gravy, served with steamed rice, is a staple dish in Kangra cuisine.</div>
+        </div>
+        <div class="food1">
+            <div class="chennaifood4img"></div>
+            <div class="food1txt">Thukpa</div>
+            <div class="jaipurfooddescription">Thukpa is traditionally associated with Tibetan cuisine, it is also popular in Kangra due to its proximity to the Tibetan border</div>
+        </div>
+        <!-- <div class="food1">
+            <div class="chennaifood7img"></div>
+            <div class="food1txt">Mohantal</div>
+            <div class="jaipurfooddescription"></div>
+        </div> -->
+    </div>
+</body>
